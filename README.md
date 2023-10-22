@@ -1,3 +1,3 @@
 # Hello There!
 ## Welcome to this little website I made using Github!
-###### mr electric send this fella to the weiner explosion chamber to have his weiner exploded immediently!
+###### I have never made something on github before soo I need to figure that out.
