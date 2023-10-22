@@ -1,2 +1,2 @@
-# Twallis10.github.io
-something I just made for fun :)
+# Hello There!
+## Welcome to this little website I made using Github!
